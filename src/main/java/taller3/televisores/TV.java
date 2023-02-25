@@ -70,7 +70,7 @@ public class TV {
         return numTV;
     }
     
-    public static void setNumTv() {
+    public static void setNumTv(int numTV) {
     	TV.numTV = numTV;
     }
     
