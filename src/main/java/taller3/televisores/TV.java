@@ -70,8 +70,8 @@ public class TV {
         return numTV;
     }
     
-    public static void setNumTv(int numTV) {
-    	TV.numTV = numTV;
+    public static void setNumTV(int num) {
+		numTV = num;
     }
     
     //Estado
